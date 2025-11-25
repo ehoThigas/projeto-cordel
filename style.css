@@ -1,0 +1,13 @@
+@charset "UTF 8";
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+:root{
+    --fonte-destaque: 'Passion One', cursive;
+    --fonte-padrão: Sriracha, Helvetica, sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: var(--fonte-padrão);
+}
